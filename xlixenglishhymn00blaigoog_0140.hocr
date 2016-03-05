@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./xlixenglishhymn00blaigoog_0140.png"; bbox 0 0 2592 4292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 351 3507 1058 3635">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 351 3507 1058 3635">
+     <span class='ocr_line' id='line_1_1' title="bbox 351 3507 1058 3558; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 351 3508 438 3549; x_wconf 79' lang='lat' dir='ltr'>Printed</span> <span class='ocrx_word' id='word_1_2' title='bbox 449 3507 478 3557; x_wconf 91' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 487 3508 511 3548; x_wconf 91' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_4' title='bbox 523 3509 565 3548; x_wconf 82' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_5' title='bbox 574 3509 600 3548; x_wconf 78' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_6' title='bbox 611 3509 761 3558; x_wconf 69' lang='lat' dir='ltr'><strong>consum,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 773 3509 866 3550; x_wconf 79' lang='lat' dir='ltr'>Printers</span> <span class='ocrx_word' id='word_1_8' title='bbox 875 3517 898 3549; x_wconf 85' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_9' title='bbox 908 3510 954 3550; x_wconf 84' lang='lat' dir='ltr'>Her</span> <span class='ocrx_word' id='word_1_10' title='bbox 964 3509 1058 3557; x_wconf 80' lang='lat' dir='ltr'>Maiesty</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 494 3583 907 3635; baseline 0.002 -12"><span class='ocrx_word' id='word_1_11' title='bbox 494 3592 515 3624; x_wconf 77' lang='lat' dir='ltr'>at</span> <span class='ocrx_word' id='word_1_12' title='bbox 524 3585 561 3624; x_wconf 83' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_13' title='bbox 570 3583 698 3635; x_wconf 73' lang='lat' dir='ltr'>Edinburgh</span> <span class='ocrx_word' id='word_1_14' title='bbox 708 3584 835 3634; x_wconf 83' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_15' title='bbox 845 3584 907 3625; x_wconf 83' lang='lat' dir='ltr'>Press</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1300 4292">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1300 4292">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1300 4292; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1300 4292; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

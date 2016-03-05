@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./xlixenglishhymn00blaigoog_0012.png"; bbox 0 0 2592 4292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 324 3511 1030 3638">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 324 3511 1030 3638">
+     <span class='ocr_line' id='line_1_1' title="bbox 324 3511 1030 3564; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 324 3513 411 3556; x_wconf 82' lang='lat' dir='ltr'>Printed</span> <span class='ocrx_word' id='word_1_2' title='bbox 420 3513 449 3563; x_wconf 88' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 458 3513 483 3554; x_wconf 87' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_4' title='bbox 494 3515 537 3553; x_wconf 82' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_5' title='bbox 548 3514 574 3554; x_wconf 78' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_6' title='bbox 585 3515 733 3561; x_wconf 72' lang='lat' dir='ltr'><strong>eousmm,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 744 3511 838 3554; x_wconf 80' lang='lat' dir='ltr'>Printers</span> <span class='ocrx_word' id='word_1_8' title='bbox 846 3521 869 3554; x_wconf 81' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_9' title='bbox 879 3511 925 3554; x_wconf 80' lang='lat' dir='ltr'>Her</span> <span class='ocrx_word' id='word_1_10' title='bbox 935 3513 1030 3564; x_wconf 78' lang='lat' dir='ltr'><strong>Maiesty</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 470 3588 883 3638; baseline 0.005 -10"><span class='ocrx_word' id='word_1_11' title='bbox 470 3597 491 3628; x_wconf 82' lang='lat' dir='ltr'>at</span> <span class='ocrx_word' id='word_1_12' title='bbox 501 3588 537 3629; x_wconf 83' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_13' title='bbox 548 3588 675 3638; x_wconf 82' lang='lat' dir='ltr'>Edinburgh</span> <span class='ocrx_word' id='word_1_14' title='bbox 686 3588 811 3638; x_wconf 82' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_15' title='bbox 821 3589 883 3630; x_wconf 57' lang='lat' dir='ltr'>Pras</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1300 4292">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1300 4292">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1300 4292; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1300 4292; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
